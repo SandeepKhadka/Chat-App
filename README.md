@@ -5,10 +5,6 @@ Built with:
   - <strong>Server side:</strong> Node.js, Socket.io
   - <strong>NPM Modules:</strong> Mustache.js,Moment.js,Qs.js
 
-### Get the code
-
-    git clone https://github.com/kaganecee/nodejs-chat-app.git
-
 ### Run
 
 Fetch dependencies:
